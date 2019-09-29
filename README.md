@@ -2,16 +2,18 @@
 
 **Анализ сайта lifehacker**
 
-**Network**
+## Network
 
 1. **Лишние размеры**
 
-	     context_static.js	(1 091 kB)   	- избыточность 70% (coverage)
-	   	            tag.js	(368 kB) 	    - избыточность 64%
- 	      show_ads_impl.js	(233 kB)	    - избыточность 87%
-vendors.min.js.?ver=1.3.12 	(147 kB)	    - избыточность 78%
-    all.min.css?ver=1.3.12	(129 kB)	    - избыточность 87%
-vendors.min.css?ver=1.3.12 	(107 kB)	    - избыточность 95%
+File name | kBytes | Избыточность
+--------- | ------ | ------------
+context_static.js | (1 091 kB) | 70%
+tag.js | (368 kB) | избыточность 64%
+show_ads_impl.js | (233 kB) | избыточность 87%
+vendors.min.js.?ver=1.3.12 | (147 kB) | избыточность 78%
+all.min.css?ver=1.3.12 | (129 kB) | избыточность 87%
+vendors.min.css?ver=1.3.12 | (107 kB) | избыточность 95%
 
 2. **дублирование css**
 
