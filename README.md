@@ -6,8 +6,8 @@
 
 1. **Лишние размеры**
 
-File name | kBytes | Избыточность
---------- | ------ | ------------
+Файл | kBytes | Избыточность
+---- | ------ | ------------
 context_static.js | (1 091 kB) | 70%
 tag.js | (368 kB) | избыточность 64%
 show_ads_impl.js | (233 kB) | избыточность 87%
@@ -17,11 +17,12 @@ vendors.min.css?ver=1.3.12 | (107 kB) | избыточность 95%
 
 2. **дублирование css**
 
-x2	style.css	    (ver=1.3.12|7)
-x2	style.min.css 	(ver=5.1.2|17)
-x2	all.min.css	    (ver=1.3.12|1.0.0)
-
-	main.min.css | main.css (ver=5.1.2)
+Повторения | Файл | Версии
+---------- | ---- | ------
+x2 | style.css | (ver=1.3.12/7)
+x2 | style.min.css | (ver=5.1.2/17)
+x2 | all.min.css | (ver=1.3.12/1.0.0)
+x2 | main.min.css / main.css | 
 
 3. **дублирование js**
 
