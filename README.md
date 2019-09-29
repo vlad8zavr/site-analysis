@@ -18,11 +18,11 @@ Format: ![bad  moments](url)
 Файл | kBytes | Избыточность
 ---- | ------ | ------------
 context_static.js | (1 091 kB) | 70%
-tag.js | (368 kB) | избыточность 64%
-show_ads_impl.js | (233 kB) | избыточность 87%
-vendors.min.js.?ver=1.3.12 | (147 kB) | избыточность 78%
-all.min.css?ver=1.3.12 | (129 kB) | избыточность 87%
-vendors.min.css?ver=1.3.12 | (107 kB) | избыточность 95%
+tag.js | (368 kB) | 64%
+show_ads_impl.js | (233 kB) | 87%
+vendors.min.js.?ver=1.3.12 | (147 kB) | 78%
+all.min.css?ver=1.3.12 | (129 kB) | 87%
+vendors.min.css?ver=1.3.12 | (107 kB) | 95%
 
 3. **дублирование css**
 
