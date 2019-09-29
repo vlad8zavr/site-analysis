@@ -26,19 +26,21 @@ x2 | main.min.css / main.css |
 
 3. **дублирование js**
 
-x2	all.min.js	        (ver=1.3.12|1.0.0)
-x2	integrator.js?domain=lifehacker.ru
-x2	show_ads_impl.js
-x2	app.js		        (ver=17|7)
-
-
-jquery.js?ver=1.12.4 | jquery-migrate.min.js?ver=1.4.1 | jquery.lazy.min.js?ver=1.3.12
+Повторения | Файл | Версии
+---------- | ---- | ------
+x2 | all.min.js | (ver=1.3.12\1.0.0)
+x2 | integrator.js?domain=lifehacker.ru | 
+x2 | show_ads_impl.js | 
+x2 | app.js | (ver=17\7)
+x3 | jquery.js?ver=1.12.4 \ jquery-migrate.min.js?ver=1.4.1 \ jquery.lazy.min.js?ver=1.3.12 | 
 
 4. **дублирование html**
 
-x3	render.html
+Повторения | Файл
+---------- | ----
+x3 | render.html
 
 
-**Performance**
+## Performance
 
-**Coverage**
+## Coverage
