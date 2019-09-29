@@ -87,3 +87,24 @@ Rendering | 1274 ms
 Painting | 234 ms
 
 ## Coverage
+
+1. неиспользуемый css
+
+Источник | Bytes
+-------- | -----
+https://lifehacker.ru/wp-content/plugins/lh-twister/assets/style.css?ver=7 | 431
+https://lifehacker.ru/wp-content/themes/lifehacker/static/fonts/style.css?ver=1.3.12 | 1 629
+https://lifehacker.ru/wp-content/themes/lifehacker/static/styles/all.min.css?ver1.3.12 | 112 552
+https://lifehacker.ru/wp-content/themes/lifehacker/static/styles/vendors.min.css?ver=1.3.12 | 101 884
+https://lifehacker.ru | ~ 6 000
+
+**Сумма = 222,496 kBytes**
+
+2. **неиспользуемый js**
+
+**Сумма = 2 235 kBytes**
+
+![bad moment](/screens/coverage-screen.png)
+Format: ![bad  moment](url)
+
+`(screens/coverage-screen.png)`
