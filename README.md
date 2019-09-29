@@ -4,6 +4,13 @@
 
 ## Network
 
+1. **Неоптимальные моменты**
+
+![bad moments](/screens/long-stalled-requests.png)
+Format: ![Alt Text](url)
+
+`(screens/long-stalled-requests.png)`
+
 1. **Лишние размеры**
 
 Файл | kBytes | Избыточность
