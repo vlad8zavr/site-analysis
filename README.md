@@ -74,4 +74,16 @@ Format: ![bad  moment](url)
 
 ## Performance
 
+Событие | Время
+------- | -----
+First Paint | 1106,7 ms
+First Meaningful Paint | 2189.1 ms
+DOM Content Loaded | 3835.0 ms
+Load | 6285.1 ms
+====  | ====
+Loading | 93 ms
+Scripting | 3046 ms
+Rendering | 1274 ms
+Painting | 234 ms
+
 ## Coverage
