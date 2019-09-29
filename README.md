@@ -4,6 +4,8 @@
 
 ## Network
 
+(профиль загрузки ресурсов в папке **network**)
+
 1. **Неоптимальные моменты**
 
 ![bad moments](/screens/long-stalled-requests.png)
@@ -73,6 +75,8 @@ Format: ![bad  moment](url)
 
 
 ## Performance
+
+(профиль загрузки страницы в папке **performance**)
 
 Событие | Время
 ------- | -----
